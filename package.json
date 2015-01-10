@@ -1,0 +1,22 @@
+{
+  "name": "gulp-demo-pizza",
+  "version": "0.0.0",
+  "description": "Demo Gulp pizza app",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ecasilla/pizza-app.git"
+  },
+  "author": "Ernie Casilla <ecasilla@icloud.com> (http://www.erniecasilla.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ecasilla/pizza-app/issues"
+  },
+  "homepage": "https://github.com/ecasilla/pizza-app",
+  "devDependencies": {
+    "gulp": "^3.8.10"
+  }
+}
